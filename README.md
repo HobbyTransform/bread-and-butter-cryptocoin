@@ -1,4 +1,4 @@
-# bread-and-butter-cryptocoin
+# bread-and-butter cryptocoin
 Barebones Blockchain Project (SHA256 Proof-of-Work Cryptocurrency)
 
 Hi guys! This is my first step into programming a blockchain / distributed ledger technology (DLT). I call this cryptocurrency the "Bread and Butter Coin" or BNBC for short. There is no real meaning to the name I just thought it was funny.
