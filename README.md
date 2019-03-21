@@ -1,9 +1,9 @@
 # bread-and-butter cryptocoin
 Bread and Butter Coin - A Barebones SHA256 PoW Blockchain w/ GUI wallet
 
-Hi guys! This is my first step into programming a blockchain / distributed ledger technology (DLT). I call this cryptocurrency the "Bread and Butter Coin" or BNBC for short. There is no real meaning to the name I just thought it was funny.
+Hi guys! This is my first step into programming a blockchain / distributed ledger technology (DLT). I call this cryptocurrency the "Bread and Butter Coin" or BNBC for short. There is no real meaning to the name I just thought it was funny. But in all seriousness, I'm working on making a functional blockchain (with a mining wallet and GUI) in python for learning purposes. If you're brand new to blockchain coding you may want to learn from this project to help you get started coding your own blockchain, fork an existing blockchain or deploy decentralized apps (DApps) on one.
 
-But in all seriousness, I'm working on making a functional blockchain (with a mining wallet and GUI) for learning purposes. This code currently only contains the block and blockchain classes as a proof-of concept but I am programming a full node desktop application for proof of work (PoW) mining including a basic wallet that can sign and broadcast its transactions to the network. If you're brand new to blockchain coding you may want to learn from this project to help you get started coding your own blockchain or fork an existing one.
+This code currently only contains the block and blockchain classes and methods as a proof-of concept, so it'll mine and do basic stuff but only on a local machine, but I am programming a full node desktop application for proof of work (PoW) mining over a network of computers including a basic wallet that can sign and broadcast its transactions to the network.
 
 If you enjoyed this project and would like to see more like this, please consider supporting me by donating below:
 
